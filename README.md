@@ -3,13 +3,13 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=itsmeluci&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeluci" /> </p>
 
-- 🔭Atualmente estou trabalhando no desenvolvimento de um aplicativo [PIME 2024.1] (Em andamento)
+- 🔭Atualmente estou trabalhando no **desenvolvimento de um software** para um projeto da faculdade. [PIME 2024.1]
 
-- 🌱 Atualmente estou aprendendo **Python, JavaScript, Gestão Ágil além de aprimoramento em lógica de programação**
+- 🌱 Atualmente estou aprendendo: **Python, JavaScript, Gestão Ágil além de aprimoramento em lógica de programação**
 
-- 📫 você me acha através do e-mail **luci.pereira@outlook.com**
+- 📫 você me encontra através do e-mail: **luci.pereira@outlook.com**
 
-- 📄 Sobre minhass experiencias [https://www.linkedin.com/in/luciene-pereira-8a67a3267/](https://www.linkedin.com/in/luciene-pereira-8a67a3267/)
+- 📄 Sobre minhas experiências: [https://www.linkedin.com/in/luciene-pereira](https://www.linkedin.com/in/luciene-pereira-8a67a3267/)
 
 <h3 align="left">Conectar comigo:</h3>
 <p align="left">
